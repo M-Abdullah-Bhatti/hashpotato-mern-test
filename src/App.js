@@ -6,9 +6,11 @@ function App() {
   return (
     <div className="App">
       <div>
+        {/* Sidebar */}
         <Sidebar />
       </div>
       <div>
+        {/* Home */}
         <Home />
       </div>
     </div>
