@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hashpotato-mern-test/static/css/main.3d74c5d0.css",
+    "main.css": "/hashpotato-mern-test/static/css/main.8f394e48.css",
     "main.js": "/hashpotato-mern-test/static/js/main.80543358.js",
     "static/js/787.28cb0dcd.chunk.js": "/hashpotato-mern-test/static/js/787.28cb0dcd.chunk.js",
     "static/media/astro.png": "/hashpotato-mern-test/static/media/astro.9c909972a1d77f4205fc.png",
     "static/media/Meedori-Sans-Regular.woff": "/hashpotato-mern-test/static/media/Meedori-Sans-Regular.4bbc1fdef0e57561d377.woff",
     "index.html": "/hashpotato-mern-test/index.html",
-    "main.3d74c5d0.css.map": "/hashpotato-mern-test/static/css/main.3d74c5d0.css.map",
+    "main.8f394e48.css.map": "/hashpotato-mern-test/static/css/main.8f394e48.css.map",
     "main.80543358.js.map": "/hashpotato-mern-test/static/js/main.80543358.js.map",
     "787.28cb0dcd.chunk.js.map": "/hashpotato-mern-test/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d74c5d0.css",
+    "static/css/main.8f394e48.css",
     "static/js/main.80543358.js"
   ]
 }
