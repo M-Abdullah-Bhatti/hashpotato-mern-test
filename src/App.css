@@ -12,27 +12,3 @@
   width: 100%;
   display: flex;
 }
-
-@media screen and (max-width: 420px) {
-  /* .App {
-    height: 110vh;
-  } */
-  .full {
-    display: flex;
-    flex-direction: column;
-    color: white;
-    justify-content: center;
-    text-align: center;
-    align-items: center;
-    width: 400px;
-    height: 100vh;
-  }
-  .home {
-    display: flex;
-    flex-direction: column;
-    color: white;
-
-    width: 200px;
-    height: auto;
-  }
-}
