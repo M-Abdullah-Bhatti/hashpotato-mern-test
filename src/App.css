@@ -14,9 +14,9 @@
 }
 
 @media screen and (max-width: 420px) {
-  .App {
+  /* .App {
     height: 110vh;
-  }
+  } */
   .full {
     display: flex;
     flex-direction: column;
